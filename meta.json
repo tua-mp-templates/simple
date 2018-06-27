@@ -21,5 +21,6 @@
             "default": "MIT"
         }
     },
+    "skipInterpolation": "src/**/*.wxml",
     "completeMessage": "{{#inPlace}}To get started:\n\n  npm i\n  npm start{{else}}To get started:\n\n  cd {{destDirName}}\n  npm i\n  npm start{{/inPlace}}"
 }
