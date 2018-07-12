@@ -5,6 +5,12 @@
             "required": true,
             "label": "Project name"
         },
+        "appid": {
+            "type": "string",
+            "required": true,
+            "label": "appid",
+            "default": "touristappid"
+        },
         "description": {
             "type": "string",
             "required": true,
