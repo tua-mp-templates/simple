@@ -6,6 +6,18 @@
 
 这是一个基于 [vue-cli](https://github.com/vuejs/vue-cli) 的项目
 
+### 0.@tua-mp/cli
+
+``` bash
+$ npm i -g @tua-mp/cli
+
+$ tuamp init tua-mp-templates/vue my-project
+
+$ cd my-project
+$ npm i
+$ npm start
+```
+
 ### 1.vue-cli v2
 
 ``` bash
@@ -17,6 +29,7 @@ $ cd my-project
 $ npm i
 $ npm start
 ```
+
 ### 2.@vue/cli v3
 
 ``` bash
